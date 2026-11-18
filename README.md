@@ -1,8 +1,7 @@
-# You don't need a team to ship this.
+# Local-first AI tooling and client web apps, from one developer in Gothenburg.
 
-I'm Jon. One developer plus agents, in Gothenburg: local-first AI tooling and
-client web apps. The hardware quirk, the inference loop and the shipped UI all
-stay on one desk.
+You don't need a team to ship this. I'm Jon: one developer plus agents, and the
+hardware quirk, the inference loop and the shipped UI all stay on one desk.
 
 Most of what I ship is client work at [inte.cool](https://inte.cool/) and it lives
 in private repositories. Nothing here is a portfolio: the repositories on this page
@@ -14,7 +13,8 @@ Svelte on the web.
 
 If you're here for code: [Voicelooper](https://github.com/Trifocals7733/Voicelooper)
 for the local inference loop, [nex5t-clean-hdmi](https://github.com/Trifocals7733/nex5t-clean-hdmi)
-for the camera hack. The rest are one-offs I needed.
+for the camera hack. The rest are one-offs I needed. Curious rather than installing?
+The READMEs carry the wiring and the measured numbers.
 
 **Currently** (November 2026) — client sites and apps through inte.cool, with the
 parts between me and delivery increasingly automated by agents.

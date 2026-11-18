@@ -12,12 +12,17 @@ are side projects, built because I needed the thing and nobody had made it.
 extension internals, Android camera firmware, Unity/BepInEx modding, Astro and
 Svelte on the web.
 
+If you're here for code: [Voicelooper](https://github.com/Trifocals7733/Voicelooper)
+for the local inference loop, [nex5t-clean-hdmi](https://github.com/Trifocals7733/nex5t-clean-hdmi)
+for the camera hack. The rest are one-offs I needed.
+
 **Currently** (November 2026) — client sites and apps through inte.cool, with the
 parts between me and delivery increasingly automated by agents.
 
-**What I'm not** — not a team, not taking feature requests on the game mods
-(they're done when the game stops being fun), and not handling client inquiries
-in GitHub issues.
+Using one of these and it broke? Open an issue — I read them. Feature requests on
+the game mods are still a no: they're done when the game stops being fun.
+
+**What I'm not** — not a team, and not handling client inquiries in GitHub issues.
 
 Email **hej@inte.cool** · [inte.cool](https://inte.cool/) · [@xJonder](https://x.com/xJonder)
 

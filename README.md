@@ -1,16 +1,26 @@
-## Hi there 👋
+# You don't need a team to ship this.
 
-<!--
-**Trifocals7733/Trifocals7733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jon. One developer plus agents, in Gothenburg: local-first AI tooling and
+client web apps. The hardware quirk, the inference loop and the shipped UI all
+stay on one desk.
 
-Here are some ideas to get you started:
+Most of what I ship is client work at [inte.cool](https://inte.cool/) and it lives
+in private repositories. Nothing here is a portfolio: the repositories on this page
+are side projects, built because I needed the thing and nobody had made it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work in** — local inference (Whisper, Kokoro, Silero, WebGPU), ComfyUI
+extension internals, Android camera firmware, Unity/BepInEx modding, Astro and
+Svelte on the web.
+
+**Currently** (November 2026) — client sites and apps through inte.cool, with the
+parts between me and delivery increasingly automated by agents.
+
+**What I'm not** — not a team, not taking feature requests on the game mods
+(they're done when the game stops being fun), and not handling client inquiries
+in GitHub issues.
+
+Email **hej@inte.cool** · [inte.cool](https://inte.cool/) · [@xJonder](https://x.com/xJonder)
+
+<!-- Owner: Jon Holm (inte.cool). Last reviewed 2026-11-18.
+     Re-read this page when: a client case study ships, a talk or post lands,
+     inte.cool adds or drops a service, or a repository here goes dormant. -->

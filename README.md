@@ -3,7 +3,7 @@
 One developer plus agents, in Gothenburg. Websites, apps and AI for clients,
 through [inte.cool](https://inte.cool/).
 
-The repositories here are unrelated side projects. They are not what I do for
+The repositories here are unrelated side projects, for the most part. They are not what I do for
 clients and not where to judge the work.
 
 Email **jon@inte.cool** · [inte.cool](https://inte.cool/) · [@xJonder](https://x.com/xJonder)
